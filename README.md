@@ -37,29 +37,29 @@ The dataset contains information related to:
 
 ## 📊 Dashboard Pages
 
-### 1. KPI Analysis
-- Total Sales
-- Overall Sales
-- West Region Sales
-- Year Filter (Slicer)
-
-### 2. Sales Performance
+### 1. Sales Performance
 - Sales by Category
 - Sales by State
 - Sales Trend Analysis
 - Year-wise Sales
 
-### 3. Customer Analysis
+### 2. Customer Analysis
 - Customer Segmentation
 - Regional Sales Distribution
 - Top Customers
 - Product-wise Sales
 
-### 4. Shipping & Delivery Analysis
+### 3. Shipping & Delivery Analysis
 - Average Shipping Delay
 - Shipping Mode Distribution
 - Orders by Shipping Days
 - Shipping Category Analysis
+
+### 4. KPI Analysis
+- Total Sales
+- Overall Sales
+- West Region Sales
+- Year Filter (Slicer)
 
 
 
