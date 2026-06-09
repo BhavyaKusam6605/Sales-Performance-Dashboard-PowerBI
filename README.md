@@ -39,8 +39,8 @@ The dataset contains information related to:
 
 ### 1. KPI Analysis
 - Total Sales
-- Regional Sales
-- Sales Gauge
+- Overall Sales
+- West Region Sales
 - Year Filter (Slicer)
 
 ### 2. Sales Performance
